@@ -4,7 +4,7 @@
 
 ## 🏆 Hackathon Context
 
-This project was developed by **Team Debuggers** for the **Ecomomic Times AI Hackathon 2026**.
+This project was developed for the **Ecomomic Times AI Hackathon 2026**.
 
 * **Track:** Problem Statement 8 (Industrial Knowledge Intelligence: Unified Asset & Operations Brain)
 
